@@ -6,5 +6,10 @@ Java, Oracle Database, JDBC (JSP + servlet)
 
 ## Authors
 
+
 Marco Gabriel Saborrido 
 [@MarcoSaborrido](https://twitter.com/MarcoSaborrido?s=09)
+
+Tyronne Morato
+
+Mark Reniel Cruz
